@@ -1,4 +1,5 @@
-# <p style="text-align: right;">OWASP Risk Calculator</p>
+# OWASP Risk Calculator
+
 
 ## Introduction
 
@@ -17,6 +18,8 @@ This project involves the development and implementation of the OWASP Risk Calcu
 3. **User-Friendly Interface:** Intuitive web-based interface designed for easy use, requiring minimal training or technical expertise.
 4. **Immediate Feedback:** Provides real-time feedback by dynamically calculating and displaying risk scores as users input data.
 5. **Comprehensive Coverage:** Evaluates a wide range of factors, ensuring no critical aspect of risk assessment is overlooked.
+
+
 
 ## Demo
 
