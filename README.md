@@ -21,8 +21,3 @@ This project involves the development and implementation of the OWASP Risk Calcu
 
 
 
-## Demo
-
-**YouTube Demo:**  [OWASP Risk Calculator](https://youtu.be/6RYTGnjdqQQ)
-
-
